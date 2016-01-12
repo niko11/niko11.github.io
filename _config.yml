@@ -1,0 +1,130 @@
+# --- Serving options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (username.github.io) then use these settings:
+production_url : http://filiptodoric.com
+baseurl: ""
+
+#permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+highlighter: pygments
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
+title: Filip Todoric
+
+# Short description of your site
+description: Techie, developer
+
+# --- Navigation bar options --- #
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar.jpg"
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  Projects: "projects.html"
+  About Me: "aboutme.html"
+  Contact: "contact.html"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+title : Filip Todoric
+tagline: Filip Todoric
+author :
+  name : Filip Todoric
+  email : filiptodoric@gmail.com
+  github : filiptodoric
+  twitter : filiptodoric
+  linkedin: pub/filip-todoric/a3/b42/465
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: false
+  email: true
+  twitter: true
+  github: true
+  linkedin: true
+  stackoverflow: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+  url-pretty: "filiptodoric.com"
+
+# --- Misc --- #
+
+  # Settings for comments helper
+  # Set 'provider' to the comment provider you want to use.
+  # Set 'provider' to false to turn commenting off globally.
+  #
+  comments :
+    provider : disqus
+    disqus :
+      short_name : jekyllbootstrap
+    livefyre :
+      site_id : 123
+    intensedebate :
+      account : 123abc
+    facebook :
+      appid : 123
+      num_posts: 5
+      width: 580
+      colorscheme: light
+    duoshuo :
+      short_name : jekyllbootstrap
+
+# Settings for analytics helper
+  # Set 'provider' to the analytics provider you want to use.
+  # Set 'provider' to false to turn analytics off globally.
+  #
+  google_analytics: "UA-69193468-1"
+  analytics :
+    provider : google
+    gauges :
+        site_id : 'SITE ID'
+    google :
+        tracking_id : 'UA-69193468-1'
+    getclicky :
+      site_id :
+    mixpanel :
+        token : '_MIXPANEL_TOKEN_'
+    piwik :
+        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+        idsite : '1'                   # the id of the site on Piwik
+
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Toronto"
+markdown: kramdown
+highlighter: pygments
+permalink: /:year-:month-:day-:title
+paginate: 5
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
