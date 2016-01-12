@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-production_url : http://filiptodoric.com
+production_url : http://nikolatodoric.com
 baseurl: ""
 
 #permalink: /:categories/:year/:month/:day/:title
@@ -41,10 +41,10 @@ navbar-links:
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-title : Filip Todoric
-tagline: Filip Todoric
-author :
-  name : Filip Todoric
+title : Nikola Todoric
+tagline: Nikola Todoric
+author : 
+  name : Nikola Todoric
   email : filiptodoric@gmail.com
   github : filiptodoric
   twitter : filiptodoric
