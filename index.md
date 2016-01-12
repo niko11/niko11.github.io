@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Filip Todoric
-subtitle: Simple is better than complex. Complex is better than complicated.
+subtitle: Go Sens Go!
 ---
 
 Hi, welcome to my website! I’m Filip Todoric, an ambitious software developer and
