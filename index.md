@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nikola Todoric
-subtitle: I have no plan B.
+title: Hello, I'm Nikola.
+subtitle: Business System Integration, ERP, eCommerce, Business Analysis.
 ---
-
-Hi, I am typing text.
+    "The only way to do great work is to love what you do. If you haven't found it yet, keep
+    looking. Don't settle" -- Steve Jobs.

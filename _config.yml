@@ -43,12 +43,12 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 title : Nikola Todoric
 tagline: Nikola Todoric
-author : 
+author :
   name : Nikola Todoric
-  email : filiptodoric@gmail.com
-  github : filiptodoric
-  twitter : filiptodoric
-  linkedin: pub/filip-todoric/a3/b42/465
+  email : todoric.nikola@gmail.com
+  github : niko11
+  twitter : nikolatodoric
+  linkedin: pub/nikola-todoric/a3/b42/465
 
 # Select which links to show in the footer
 footer-links-active:
