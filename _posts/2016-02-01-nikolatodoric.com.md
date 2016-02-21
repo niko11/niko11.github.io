@@ -12,6 +12,6 @@ projects.
 Created using Jekyll. Hosted on GitHub pages.
 
 **The result:**
-Most success!<sup><sup>Really though, pretty solid.</sup></sup>
+You tell me!<sup><sup>Seriously! Tell me.</sup></sup>
 
-[View source code.](https://github.com/niko11/niko11.github.io)
+[View source code.](https://github.com/filiptodoric/filiptodoric.github.com)
