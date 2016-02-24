@@ -48,7 +48,7 @@ author :
   email : todoric.nikola@gmail.com
   github : niko11
   twitter : nikolatodoric
-  linkedin: pub/nikola-todoric/a3/b42/465
+  #linkedin: https://ca.linkedin.com/in/nikolatodoric
 
 # Select which links to show in the footer
 footer-links-active:
@@ -90,13 +90,13 @@ footer-links-active:
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
-  google_analytics: "UA-72295908-1"
+  google_analytics: ""
   analytics :
-    provider : google
+    provider : false
     gauges :
-        site_id : 'SITE ID'
+        site_id : ''
     google :
-        tracking_id : 'UA-72295908-1'
+        tracking_id : ''
     getclicky :
       site_id :
     mixpanel :

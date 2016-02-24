@@ -9,4 +9,4 @@ Explore the interest of introducing a completely new type commerce platform; v-c
 
 Authored by: A. Vatres, N. Todoric
 
-[Read the paper here.](https://docs.google.com/document/d/1XNYoB4SGTUOFAfEgk3pVBTRBogazLfd3-cE82utIJUs/pub)
+[Read the paper here.]()

@@ -12,6 +12,6 @@ projects.
 Created using Jekyll. Hosted on GitHub pages.
 
 **The result:**
-You tell me!<sup><sup>Seriously! Tell me.</sup></sup>
+You tell me!
 
 [View source code.](https://github.com/niko11/niko11.github.io)
