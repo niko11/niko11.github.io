@@ -18,25 +18,24 @@ The technology:
 Created using Jekyll. Hosted on GitHub pages.
 
 The result:
-Most success!Really though, pretty solid.
+You tell me!
 
 View source code.
 
         </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
-        <link>/2016-02-01-nikoltodoric.com-nikolatodoric</link>
-        <guid isPermaLink="true">/2016-02-01-nikoltodoric.com-nikolatodoric</guid>
+        <link>/2016-02-01-nikolatodoric.com</link>
+        <guid isPermaLink="true">/2016-02-01-nikolatodoric.com</guid>
       </item>
     
       <item>
-        <title>Decentralized Peer to Peer File Sharing</title>
+        <title>Geenee</title>
         <description>
           
           Intention:
-Explore the possibilities of implementing a Decentralized Peer to Peer File
-Sharing system via the Chord algorithm.
+Explore the interest of introducing a completely new type commerce platform; v-commerice (virtual commerce). The idea is to have a completely customized avatar based online
 
-Authored by: G. Emanuel, T. Fraser, E. Kemp and F. Todoric
+Authored by: A. Vatres, N. Todoric
 
 Read the paper here.
 
