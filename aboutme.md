@@ -1,12 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: The guy behind the code
+subtitle: A little about me...
 ---
 
-I am *almost* done getting my Bachelor's of Computer Science. I'll be graduating
-at the end of June 2016.
+I have a Bachelor degree in eCommerce. I have been working in IT for 7 years, both independently and within the Federal Government.
 
-Beyond school am a **huge** fan o
-
-I am (like almost everyone else) a big fan of music. The Black Keys, Edward Sharpe, and Alt-J.
+Beyond work, I constantly listen to music and love learning new things and keeping in touch with all the newest ideas. I have an obsession with Dragons Den and am a **huge** fan of the Ottawa Senators.
